@@ -1,2 +1,2 @@
-# vagas encerradas
+# vagasencerradas
 Vagas Encerradas!
